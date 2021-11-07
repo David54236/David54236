@@ -1,26 +1,2 @@
-{
-  "name": "@David54236",
-  "email": null,
-  "interested in": [
-    [
-      "C",
-      "C++",
-      "C#",
-      "PowerShell",
-      "Lua"
-    ],
-    "REST",
-    "Automatisation",
-    "Modding",
-    "Gaming"
-  ],
-  "currently learning": [
-    "JavaScript",
-    "Web Development",
-    "Game Development"
-  ],
-  "looking to": [
-    "Help out",
-    "Organize my stuff"
-  ]
-}
+##  _Hallo there,_
+### my name is David. I am an IT systems engineer, student and hobby developer.
